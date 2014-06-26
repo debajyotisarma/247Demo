@@ -5,7 +5,7 @@ function initialDeploymentMap() {
          * App ID which would be used for e.f.o.id var in events
          * __mvp_appId__ : MVP_APP_01"
          */
-        __mvp_appId__ : "1004"
+        __mvp_appId__ : "1005"
 
         /**
          * HTML path of 247SN.html on client's site, relative to base location
